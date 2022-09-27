@@ -25,7 +25,7 @@ A aplicação conta com as seguintes funcionalidades:
 - Páginas de acesso restrito ao retirar o Tolken e atualizar te levam para página inicial. 
 - Lista de viagens que consomem a API Labenu para retornar as infomações.
 - É possível enviar solicitação para as viagens. Os formulários apresentam condições criadas em Regex e HTML.
-- Na página Home do Admin, você pode visualizar as viagens existentes às excluir.
+- Na página Home do Admin, você pode visualizar as viagens existentes e excluí-las.
 - Na página Create trip page, você pode criar viagens peenchendo os formulários com condições criadas em Regex e HTML.
 - As viagens criadas irão aparecer na página pública de viagens.
 
